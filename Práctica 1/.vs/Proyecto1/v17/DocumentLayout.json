@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\CGeIHC\\Pr\u00E1ctica 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAFDBB0-85B9-4FD2-8C11-972481CE1514}|Proyecto1.vcxproj|E:\\GitHub\\CGeIHC\\Pr\u00E1ctica 1\\segundo_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CAFDBB0-85B9-4FD2-8C11-972481CE1514}|Proyecto1.vcxproj|solutionrelative:segundo_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "segundo_main.cpp",
+              "DocumentMoniker": "E:\\GitHub\\CGeIHC\\Pr\u00E1ctica 1\\segundo_main.cpp",
+              "RelativeDocumentMoniker": "segundo_main.cpp",
+              "ToolTip": "E:\\GitHub\\CGeIHC\\Pr\u00E1ctica 1\\segundo_main.cpp",
+              "RelativeToolTip": "segundo_main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T05:12:52.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
