@@ -200,8 +200,7 @@ int main()
 		glUseProgram(shader);
 
 		glBindVertexArray(VAO);
-		glDrawArrays(GL_TRIANGLES, 0, 6);
-		glDrawArrays(GL_TRIANGLES, 6, 12);
+		glDrawArrays(GL_TRIANGLES, 0, 12);
 		glBindVertexArray(0);
 
 		glUseProgram(0);
